@@ -1,7 +1,7 @@
 import React from 'react';
 
 function Content() {
-  return <h1>Content</h1>;
+  return <h1 className="flex-fill b3">Content</h1>;
 }
 
 export default Content;
